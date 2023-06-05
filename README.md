@@ -79,10 +79,15 @@ The below dashboard gives informative insight  about COVID-19 data right  from t
 I manipulated and aggregated the data with SQL  before building the dashboard.
 
 Key Insights:
+
 ⚡ Total Death per Continent
+
 ⚡ Percentage of Population Infected per Country
+
 ⚡Global numbers (Total Death Count)
+
 ⚡ Percentage Population Infected
+
 
 ## Overview of the Dashboard
 ![tableauproject](https://github.com/classicemmaeasy/Emmanuel-s_portfolio/assets/105358925/5b6459dc-3fa0-47f0-92ba-96cad066d5e1)
