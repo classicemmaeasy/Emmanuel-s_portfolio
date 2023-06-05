@@ -1,6 +1,6 @@
 # Emmanuel-s_portfolio
 
-# [Bike Sales Dashboard](https://github.com/classicemmaeasy/Bike-Sales-Dashboard)
+# PROJECT 1:  [Bike Sales Dashboard](https://github.com/classicemmaeasy/Bike-Sales-Dashboard)
 
 Below is an interactive dashboard I built, which shows the bike sales in each region based on gender, Age groups and Marital Status.
 
